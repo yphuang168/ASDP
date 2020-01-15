@@ -1,2 +1,2 @@
 # ASDP
-Automated Structural Determinate Program
+Automated NMR Structure Determination using DP score 
